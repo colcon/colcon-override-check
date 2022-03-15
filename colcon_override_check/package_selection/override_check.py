@@ -168,4 +168,4 @@ class OverrideCheckPackageSelection(PackageSelectionExtensionPoint):
 
             logger.warn(
                 override_msg + '\n\nThis may be promoted to an error in a'
-                ' future release of colcon-core.')
+                ' future release of colcon-override-check.')
