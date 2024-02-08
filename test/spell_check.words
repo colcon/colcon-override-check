@@ -4,10 +4,12 @@ colcon
 deps
 https
 iterdir
+linter
 nargs
 noqa
 pathlib
 plugin
+pydocstyle
 pytest
 scott
 scspell
